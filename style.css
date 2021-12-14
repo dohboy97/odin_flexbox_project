@@ -1,0 +1,18 @@
+img {max-width:200px; height:auto }
+
+ul {font-style:none; list-style: none; }
+li {display:inline;
+gap:15px}
+
+.header {display:flex;
+    flex-direction:column;
+flex-wrap:wrap;
+background-color:#1F2937;
+color:white}
+
+.tippytop {display:flex;
+justify-content:space-around}
+
+.first-containers {display:flex;
+justify-content:center;
+max-width:1100px}
