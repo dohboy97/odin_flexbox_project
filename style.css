@@ -63,12 +63,12 @@ border-radius: 8px;}
 h2 {font-weight:bolder;
     text-align:center; margin-top:30px}
 
-.info {display:flex; justify-content:center; gap:40px}
+.info {display:flex; justify-content:center; gap:60px}
 
 .bigsquare {display:flex; flex-direction:column;
 align-items:center;
 justify-content:center;
-width:100px;
+width:150px;
 text-align:center;
 margin-top:20px
 
@@ -79,5 +79,5 @@ margin-top:20px
 border-radius: 8px;
 border:3px solid blue;
 
-width:100px;
-height:100px;}
+width:150px;
+height:150px;}
