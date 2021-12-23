@@ -137,3 +137,8 @@ h4 {margin-bottom:-10px}
 border-radius:8px;
 background-color:lightskyblue;
 }
+
+
+.footer {display:flex;
+    background-color:#1F2937; justify-content:center; color:white; height:100px;
+align-items:center}
