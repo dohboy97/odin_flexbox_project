@@ -81,3 +81,28 @@ border:3px solid blue;
 
 width:150px;
 height:150px;}
+
+
+.quote {background-color:#E5E7EB;display:flex;
+flex-direction:column;
+align-items:center
+
+
+}
+
+.thequote{font-size:32px;
+    font-style:italic;
+    font-weight:100;
+    color:#1F2937;
+    max-width:600px;
+    margin-right:200px;
+    margin-left:200px;
+    display:flex;
+    justify-content:center
+    
+}
+
+.thor {margin-right:200px;
+margin-left:200px;
+padding-left:350px;
+font-weight:800}
